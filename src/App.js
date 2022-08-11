@@ -1,7 +1,7 @@
-import "./App.css";
-
+import Home from "./pages/Home";
+import style from "./App.css";
 function App() {
-  return <div className='App'>higit</div>;
+  return <Home />;
 }
 
 export default App;
